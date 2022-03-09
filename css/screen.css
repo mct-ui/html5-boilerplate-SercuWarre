@@ -13,6 +13,7 @@ html {
   padding: 24px 24px 0;
   background: #44c8f5;
   color: white;
+  scroll-behavior: smooth;
 }
 body {
   max-width: 42em;
